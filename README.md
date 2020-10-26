@@ -1,6 +1,6 @@
 # Custom-dropdowns-CSS-JS
 
-Работающий пример: 
+Работающий пример: https://serrjik.github.io/Custom-dropdowns-CSS-JS/
 
 * Стилизованный тег select на CSS.
 * Свой полностью стилизованный select на HTML, CSS, JS. Логика на JS, добавлен JS полифил для поддержки IE 10 и 11.
